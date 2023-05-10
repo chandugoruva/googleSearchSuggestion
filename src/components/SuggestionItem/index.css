@@ -1,0 +1,10 @@
+.li-el {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.image2 {
+  height: 30px;
+  width: 30px;
+}
